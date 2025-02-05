@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-There's no spoun, it is Wild.
+There's no soapun, it is Wild.
 
 ```
   BBBBB   OOOOO   OOOOO   M     M
